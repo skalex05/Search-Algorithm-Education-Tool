@@ -1,0 +1,292 @@
+{
+    "defaults":
+     {
+         "colours":
+         {
+             "normal_bg":"#15191e",
+             "hovered_bg":"#35393e",
+             "disabled_bg":"#25292e",
+             "selected_bg":"#868e99",
+             "dark_bg":"#252526",
+             "normal_text":"#c5cbd8",
+             "hovered_text":"#FFFFFF",
+             "selected_text":"#FFFFFF",
+             "disabled_text":"#6d736f",
+             "link_text": "#0000EE",
+             "link_hover": "#2020FF",
+             "link_selected": "#551A8B",
+             "text_shadow": "#777777",
+             "normal_border": "#DDDDDD",
+             "hovered_border": "#B0B0B0",
+             "disabled_border": "#808080",
+             "selected_border": "#8080B0",
+             "active_border": "#8080B0"
+         }
+     },
+     "panel":
+    {
+        "misc":
+        {
+            "border_width" : "0"    
+        }
+    },
+     "button":
+     {
+         "colours":
+         {
+             "dark_bg":"#1f1f21",
+             "normal_bg":"#1f1f21",  
+             "hovered_bg":"#222222",
+             "active_bg": "#15191e"
+         },
+         "misc":
+         {
+             "border_width" : "0"    
+         }
+     },
+     "text_entry_line":
+    {
+        "colours":
+         {
+             "dark_bg":"#1f1f21",
+             "normal_border": "#555555"
+         },
+        "misc":
+        {
+            "border_width" : "0"    
+        }
+    },
+    "selection_list":
+    {
+        "colours":
+         {
+             "dark_bg":"#1f1f21",
+             "normal_border": "#555555"
+         },
+        "misc":
+        {
+            "list_item_height": "30",
+            "border_width" : "0"    
+        }
+    },
+    "text_box":
+    {
+        "colours":
+         {
+             "dark_bg":"#1f1f21",
+             "normal_border": "#555555"
+         },
+        "misc":
+        {
+            "border_width" : "0"    
+        }
+    },
+    "text_box.vertical_scroll_bar":
+     {
+         "misc":
+         {
+            "border_width": "0",
+            "shape":"rounded_rectangle"
+         }
+     },
+     "text_box.vertical_scroll_bar.#sliding_button":
+     {
+         "misc":
+         {
+            "border_width": "0",
+            "shape":"rounded_rectangle"
+         },
+         "colours":
+         {
+             "normal_bg": "#333333"  
+         }
+     },
+     "horizontal_slider":
+     {
+        "colours":
+         {
+             "dark_bg":"#1f1f21",
+             "normal_border": "#555555"
+         },
+        "misc":
+        {
+            "border_width" : "0",    
+            "shape":"rounded_rectangle",
+            "enable_arrow_buttons":"0"
+        }
+     },
+     "horizontal_slider.#sliding_button":
+     {
+        
+        "colours":
+         {
+            "normal_bg":"#333333"
+         },
+         "misc":
+         {
+            "shape":"rounded_rectangle",
+            "border_width":"0"
+         }
+     },
+    "@Button_Bar":
+    {
+        "colours":
+        {
+            "dark_bg":"#333333",
+            "normal_bg":"#333333",  
+            "hovered_bg":"#222222"
+        }
+    },
+    "@LeftAlignedText":
+    {
+        "misc":
+        {
+            "text_horiz_alignment":"left"
+        }
+    },
+    "@Label":
+    {
+        "misc" :{
+            "shape": "rounded_rectangle",
+            "text_horiz_alignment":"center"
+        },
+        "colours":{
+            "normal_text":"#FFFFFF"
+        }
+    },
+    "#Nav_Properties":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "images/nav_properties.png"
+            }
+        }
+    },
+    "#Nav_File":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "images/nav_file.png"
+            }
+        }
+    },
+    "#Nav_Run":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "images/nav_run.png"
+            }
+        }
+    },
+    "#Nav_Help":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "images/nav_help.png"
+            }
+        }
+    },
+    "#Select":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "images/tool_select.png"
+            }  
+        }
+    },
+    "#Move_Camera":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "images/tool_drag.png"
+            }  
+        }
+    },
+    "#Move_Node":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "images/tool_move_node.png"
+            }  
+        }
+    },
+    "#Create":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "images/tool_create.png"
+            }  
+        }
+    },
+    "#Delete":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "images/tool_delete.png"
+            }  
+        }
+    },
+    "#Zoom_In":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "images/tool_zoom_in.png"
+            }  
+        }
+    },
+    "#Zoom_Out":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "images/tool_zoom_out.png"
+            }  
+        }
+    },
+    "#Undo":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "images/tool_undo.png"
+            }  
+        }
+    },
+    "#Redo":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "images/tool_redo.png"
+            }  
+        }
+    },
+    "#Home":
+    {
+        "images":
+        {
+            "normal_image": {
+                "path": "images/tool_home.png"
+            }  
+        }
+    },
+    "#Algorithm_Quit":
+    {
+        "colours":
+        {
+            "normal_bg" : "#ba3b2f",
+            "hovered_bg":"#cc3527",
+            "active_bg": "#914039"
+        }
+    }
+}

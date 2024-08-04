@@ -1,0 +1,13 @@
+{
+    "image":
+    {
+        "1" : "Help Images/1.png",
+        "2" : "Help Images/2.png",
+        "3" : "Help Images/3.png"
+    },
+    "explanation":
+    {
+        "1" : "Welcome to the shortest path learning tool. Here, you can design your own graphs and be shown how to apply shortest path algorithms. Press 'Next' to learn more about how to use this software.",
+        "2" : "On the right hand side of the screen, you will see the toolbar. You can select different tools to manipulate your graphs in different ways. The tools include:<br>- Select<br>- Drag<br>- Create<br>- Delete<br>- Undo/Redo<br>- Zoom In/Out<br>- Home<br>Experiment with these different tools by clicking on their icons in the toolbar and then clicking and dragging in the environment."
+    }
+}
