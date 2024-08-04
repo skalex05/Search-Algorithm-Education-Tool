@@ -5,4 +5,4 @@ It allows users to create graphs from nodes and weighted edges.
 Users can then perform Dijkstra's and A* pathfinding algorithms.
 The program provides step-by-step, written explanations and visual animations for each algorithm.
 
-The repository includes a document created alongside the development process and can provide more details about how the software works.
+The repository includes a [document](DevDoc.docx) created alongside the development process and can provide more details about how the software works.
